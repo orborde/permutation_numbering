@@ -67,8 +67,8 @@ def test_perm(length: int):
 
 
 if __name__ == '__main__':
-    # test_pindex(5)
-    # test_perm(5)
+    test_pindex(5)
+    test_perm(5)
 
     val = 8
     for n in range(math.factorial(val)):
